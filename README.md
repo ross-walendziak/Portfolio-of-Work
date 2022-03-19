@@ -25,3 +25,8 @@ Econometrics Portfolio
     * Time series plot of monthly liquor sales by category.
     * Time series plot of weekly liquor sales by category.
     * Ranking of liquor categories by total sales dollars, total sales volume and number of by bottles sold
+
+# [Project 4: FAANG CAPM Analysis:](https://github.com/ross-walendziak/FAANG-CAPM-Analysis)
+* Soured historical pricing data on FAANG stocks as well as data on market returns and the risk-free-rate for the Sept 2015 through Sept 2021 period.
+* Visualized return characteristics of each FAANG stock.
+* Estimated beta coefficients to the market for the historical period under consideration.
