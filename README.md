@@ -1,5 +1,5 @@
 # Portfolio-of-Work
-Econometrics Portfolio
+Sample of work completed in my applied economics graduate program with emphasis on econometric modeling and data visualization
 
 # [Project 1: Passenger Volume Forecast for Logan Airport:](https://github.com/ross-walendziak/Passenger-Forecast)
 * Created a tool that scapes PDF documents from Massport for monthly passenger volumes at Boston Logan Airport using the pdftools package in r for the Jan 1999 to Oct 2021 period.
