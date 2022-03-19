@@ -40,7 +40,7 @@ Sample of work completed in my applied economics graduate program emphasizing ec
 * Visualized return characteristics of each FAANG stock.
 * Estimated beta coefficients to the market for the historical period under consideration.
 
-![](/Graphics/Stock%20Return%20Distribution.jpeg)
+![](/Graphics/StockReturnDistribution.jpeg)
 
 # [Project 5: College Ranking Linear Regression:](https://github.com/ross-walendziak/College-Ranking-Linear-Regression)
 * Used simple linear regression to estimate of effect of professor salary, student-to-faculty-ratio and percent female faculty on university ranking.
