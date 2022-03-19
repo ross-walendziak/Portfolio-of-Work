@@ -1,7 +1,7 @@
 # Portfolio-of-Work
 Econometrics Portfolio
 
-# [Project 1: Passenger Volume Forecast for Logan Airport | Project Overview:](https://github.com/ross-walendziak/Passenger-Forecast)
+# [Project 1: Passenger Volume Forecast for Logan Airport:](https://github.com/ross-walendziak/Passenger-Forecast)
 * Created a tool that scapes PDF documents from Massport for monthly passenger volumes at Boston Logan Airport using the pdftools package in r for the Jan 1999 to Oct 2021 period.
 * Raw data is cleaned and assembed into a time series tsibble object using the various tidyverse packages.
 * Exploratory data analysis is preformed to reveal insights on long term passenger terms, monthly seasonality patterns and the relationship between lags (autocorrelations) of successive passenger volume observations.
