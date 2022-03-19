@@ -19,8 +19,8 @@ Sample of work completed in my applied economics graduate program emphasizing ec
 * Our best classification model is the boost model and the best regression model is the random forest model.  
   * Expected profit outcomes change from -$0.55 per mailing without use of the models to +$0.09 per mailing with use of the models. The charity can become self-               sustaining.
 
-![](/Graphics/Random%20Forest%20Variable%20Importance.png)
-![](/Graphics/Boosting%20Profit.png)
+![](/Graphics/RFVariableImportance.png)
+![](/Graphics/BoostingProfit.png)
 
 # [Project 3: Liquor-Sales-Data-Visualization:](https://github.com/ross-walendziak/Liquor-Sales-Data-Visualization)
 * Summarized a large liquor sales data from the state of Iowa to visually depict liquor sales from multiple angles.
