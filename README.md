@@ -1,4 +1,4 @@
-# Portfolio-of-Work
+# Ross_Walendziak_Portfolio
 Sample of work completed in my applied economics graduate program with emphasis on econometric modeling and data visualization
 
 # [Project 1: Passenger Volume Forecast for Logan Airport:](https://github.com/ross-walendziak/Passenger-Forecast)
