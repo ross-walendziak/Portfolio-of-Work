@@ -19,6 +19,9 @@ Sample of work completed in my applied economics graduate program emphasizing ec
 * Our best classification model is the boost model and the best regression model is the random forest model.  
   * Expected profit outcomes change from -$0.55 per mailing without use of the models to +$0.09 per mailing with use of the models. The charity can become self-               sustaining.
 
+![](https://github.com/ross-walendziak/Clarity-in-Charity/blob/main/Graphics/Random%20Forest%20Variable%20Importance.png)
+![](https://github.com/ross-walendziak/Clarity-in-Charity/blob/main/Graphics/Boosting%20Profit.png)
+
 # [Project 3: Liquor-Sales-Data-Visualization:](https://github.com/ross-walendziak/Liquor-Sales-Data-Visualization)
 * Summarized a large liquor sales data from the state of Iowa to visually depict liquor sales from multiple angles.
 * Specifically, GGPLOT2 was used to produce visualizations for:
@@ -29,10 +32,18 @@ Sample of work completed in my applied economics graduate program emphasizing ec
     * Time series plot of weekly liquor sales by category.
     * Ranking of liquor categories by total sales dollars, total sales volume and number of by bottles sold
 
+![](https://github.com/ross-walendziak/Liquor-Sales-Data-Visualization/blob/main/Graphics/q2a.png)
+![](https://github.com/ross-walendziak/Liquor-Sales-Data-Visualization/blob/main/Graphics/q3c.png)
+
 # [Project 4: FAANG CAPM Analysis:](https://github.com/ross-walendziak/FAANG-CAPM-Analysis)
 * Soured historical pricing data on FAANG stocks as well as data on market returns and the risk-free-rate for the Sept 2015 through Sept 2021 period.
 * Visualized return characteristics of each FAANG stock.
 * Estimated beta coefficients to the market for the historical period under consideration.
 
+![](https://github.com/ross-walendziak/FAANG-CAPM-Analysis/blob/main/Graphics/Stock%20Return%20Distribution.jpeg)
+
 # [Project 5: College Ranking Linear Regression:](https://github.com/ross-walendziak/College-Ranking-Linear-Regression)
 * Used simple linear regression to estimate of effect of professor salary, student-to-faculty-ratio and percent female faculty on university ranking.
+
+![](https://github.com/ross-walendziak/College-Ranking-Linear-Regression/blob/main/Graphics/Professor%20Salary%20Historgram.png)
+![](https://github.com/ross-walendziak/College-Ranking-Linear-Regression/blob/main/Graphics/Scatter%20-%20Academic%20Rank%20vs%20Explanatory%20Variables.png)
