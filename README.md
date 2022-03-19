@@ -9,8 +9,8 @@ Sample of work completed in my applied economics graduate program emphasizing ec
 * Best model selection is completed using a testing set and cross validation approach, as assessed by RMSE.
 * A final 2-year passenger volume forecast is offered for the Nov 2021 through Oct 2023 period using all available data on the best model selection.
 
-![](https://github.com/ross-walendziak/Passenger-Forecast/blob/main/graphics/Raw%20Time%20Series%20Plot.png)
-![](https://github.com/ross-walendziak/Passenger-Forecast/blob/main/graphics/Seasonal%20Plot.png)
+![](/Graphics/Raw%20Time%20Series%20Plot.png)
+![](/Graphics/Seasonal%20Plot.png)
 
 # [Project 2: Donation Estimator:](https://github.com/ross-walendziak/Clarity-in-Charity)
 * Created various classification and regression models for a theoretical charity to optimize profits from a direct marketing campaign.
