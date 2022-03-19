@@ -45,5 +45,5 @@ Sample of work completed in my applied economics graduate program emphasizing ec
 # [Project 5: College Ranking Linear Regression:](https://github.com/ross-walendziak/College-Ranking-Linear-Regression)
 * Used simple linear regression to estimate of effect of professor salary, student-to-faculty-ratio and percent female faculty on university ranking.
 
-![](/College-Ranking-Linear-Regression/blob/main/Graphics/Professor%20Salary%20Historgram.png)
-![](/College-Ranking-Linear-Regression/blob/main/Graphics/Scatter%20-%20Academic%20Rank%20vs%20Explanatory%20Variables.png)
+![](https://github.com/ross-walendziak/College-Ranking-Linear-Regression/blob/main/Graphics/Professor%20Salary%20Historgram.png)
+![](https://github.com/ross-walendziak/College-Ranking-Linear-Regression/blob/main/Graphics/Scatter%20-%20Academic%20Rank%20vs%20Explanatory%20Variables.png)
