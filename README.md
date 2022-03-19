@@ -30,3 +30,6 @@ Econometrics Portfolio
 * Soured historical pricing data on FAANG stocks as well as data on market returns and the risk-free-rate for the Sept 2015 through Sept 2021 period.
 * Visualized return characteristics of each FAANG stock.
 * Estimated beta coefficients to the market for the historical period under consideration.
+
+# [Project 5: College Ranking Linear Regression:](https://github.com/ross-walendziak/College-Ranking-Linear-Regression)
+* Used simple linear regression to estimate of effect of professor salary, student-to-faculty-ratio and percent female faculty on university ranking.
