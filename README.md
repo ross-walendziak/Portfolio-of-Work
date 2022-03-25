@@ -22,7 +22,7 @@
 ![](/Graphics/BoostingProfit.png)
 
 # [Project 3: Liquor-Sales-Data-Visualization:](https://github.com/ross-walendziak/Liquor-Sales-Data-Visualization)
-* Summarized a large liquor sales data from the state of Iowa to visually depict liquor sales from multiple angles.
+* Summarized a large liquor sales data set from the state of Iowa to visually depict liquor sales across multiple angles.
 * Specifically, GGPLOT2 was used to produce visualizations for:
     * A calander heatmap for sales data from the year 2015.
     * A box-and-whisker plot for the pricing of liquor categories.
